@@ -1,5 +1,5 @@
-# devops-hw1
-
+## DevOps
+Deploying an EC2 instance and a droplet and deploying Nginx server 
 
 Screencast of HW1: https://youtu.be/UGkHLbtF438
 
